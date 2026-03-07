@@ -1,6 +1,7 @@
 # Projet TP Git
 
-**Nom du projet : À REMPLACER PAR LE GROUPE**
+**Nom du projet : Projet git - SuperGroupe 1**
+
 
 Bienvenue dans ce petit TP Git.
 
